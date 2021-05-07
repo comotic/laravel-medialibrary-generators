@@ -1,9 +1,9 @@
-# Collections of Path generators for Spatie laravel-medialibrary pacakge
+# Collections of Path generators for Spatie laravel-medialibrary package
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/comotic/laravel_medialibrary_generators.svg?style=flat-square)](https://packagist.org/packages/comotic/laravel_medialibrary_generators)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/comotic/laravel_medialibrary_generators/run-tests?label=tests)](https://github.com/comotic/laravel_medialibrary_generators/actions?query=workflow%3ATests+branch%3Amaster)
-[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/comotic/laravel_medialibrary_generators/Check%20&%20fix%20styling?label=code%20style)](https://github.com/comotic/laravel_medialibrary_generators/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amaster)
-[![Total Downloads](https://img.shields.io/packagist/dt/comotic/laravel_medialibrary_generators.svg?style=flat-square)](https://packagist.org/packages/comotic/laravel_medialibrary_generators)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/comotic/laravel-medialibrary-generators.svg?style=flat-square)](https://packagist.org/packages/comotic/laravel_medialibrary_generators)
+[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/comotic/laravel-medialibrary-generators/run-tests?label=tests)](https://github.com/comotic/laravel-medialibrary-generators/actions?query=workflow%3ATests+branch%3Amaster)
+[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/comotic/laravel-medialibrary-generators/Check%20&%20fix%20styling?label=code%20style)](https://github.com/comotic/laravel-medialibrary-generators/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amaster)
+[![Total Downloads](https://img.shields.io/packagist/dt/comotic/laravel-medialibrary-generators.svg?style=flat-square)](https://packagist.org/packages/comotic/laravel_medialibrary_generators)
 
 This is where your description should go. Try and limit it to a paragraph or two. Consider adding a small example.
 

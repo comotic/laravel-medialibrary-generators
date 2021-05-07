@@ -1,4 +1,4 @@
-# Collections of Path generators for Spatie laravel-medialibrary package
+# Collection of Path generators for Spatie laravel-medialibrary package
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/comotic/laravel-medialibrary-generators.svg?style=flat-square)](https://packagist.org/packages/comotic/laravel_medialibrary_generators)
 [![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/comotic/laravel-medialibrary-generators/run-tests?label=tests)](https://github.com/comotic/laravel-medialibrary-generators/actions?query=workflow%3ATests+branch%3Amaster)

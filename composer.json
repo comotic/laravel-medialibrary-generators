@@ -1,16 +1,17 @@
 {
-    "name": "vendor_slug/package_slug",
-    "description": ":package_description",
+    "name": "comotic/laravel-medialibrary-generators",
+    "description": "Collections of Path generators for Spatie laravel-medialibrary pacakge",
     "keywords": [
-        ":vendor_name",
-        "package_slug"
+        "laravel-medialibrary",
+        "path",
+        "provider"
     ],
-    "homepage": "https://github.com/vendor_slug/package_slug",
+    "homepage": "https://github.com/comotic/laravel-medialibrary-generators",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": "author@domain.com",
+            "name": "Nicolas Perraut",
+            "email": "nicolas@comotic.io",
             "role": "Developer"
         }
     ],
@@ -25,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "VendorName\\Skeleton\\": "src"
+            "Comotic\\LaravelMediaLibraryGenerators\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "VendorName\\Skeleton\\Tests\\": "tests"
+            "Comotic\\LaravelMediaLibraryGenerators\\Tests\\": "tests"
         }
     },
     "scripts": {

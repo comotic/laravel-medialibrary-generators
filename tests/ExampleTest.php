@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\Skeleton\Tests;
+namespace Comotic\LaravelMediaLibraryGenerators\Tests;
 
 use PHPUnit\Framework\TestCase;
 

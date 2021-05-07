@@ -26,6 +26,11 @@ Then choose the generator that fits your needs and update the `path_generator` k
 
 That's it, profit!
 
+### Providers
+
+- `UuidPathGenerator`: Use Media's UUID instead of key to name the folder
+- `SeparatedByModelPathGenerator`: Group media by model type then by media id
+
 ## Testing
 
 ```bash

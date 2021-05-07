@@ -3,7 +3,6 @@
 
 namespace Comotic\LaravelMediaLibraryGenerators\Path;
 
-
 use Spatie\MediaLibrary\MediaCollections\Models\Media;
 use Spatie\MediaLibrary\Support\PathGenerator\DefaultPathGenerator;
 
@@ -13,5 +12,4 @@ class UuidPathGenerator extends DefaultPathGenerator
     {
         return $media->getAttribute('uuid');
     }
-
 }

@@ -3,7 +3,6 @@
 
 namespace Comotic\LaravelMedialibraryGenerators\Path;
 
-
 use Illuminate\Support\Str;
 use Spatie\MediaLibrary\MediaCollections\Models\Media;
 use Spatie\MediaLibrary\Support\PathGenerator\DefaultPathGenerator;
@@ -18,5 +17,4 @@ class SeparatedByModelPathGenerator extends DefaultPathGenerator
 
         return "$modelType/$media->model_id/{$media->getKey()}";
     }
-
 }
